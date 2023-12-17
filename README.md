@@ -1,1 +1,1 @@
-# alma_better_capstone_project_EDA
+# alma_better_capstone_projects
